@@ -1,27 +1,28 @@
-# FincaQuixote
+# Introduccion
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+AppWeb para la gestion de ventas de productos. Gestion de usuarios, clientes y productos, con servicio de aviso de ventas pendientes por envio de mails
 
-## Development server
+# Login de Usuarios
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Para el acceso a la App el login se puede hacer con tres tipos de usuarios, Ceo, Director y Comercial.
+USUARIO:
 
-## Code scaffolding
+- ceo@gestionapp.es --> CEO
+- director@gestionapp.es --> DIRECTOR
+- comercial@gestionapp.es --> COMERCIAL
+  PASSWORD:
+- Admin123
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Descripcion
 
-## Build
+Esta App esta realizada con NodeJs, Angular y Mysql.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# Contribute
 
-## Running unit tests
+TODO: Explain how other users and developers can contribute to make your code better.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- [ASP.NET Core](https://github.com/aspnet/Home)
+- [Visual Studio Code](https://github.com/Microsoft/vscode)
+- [Chakra Core](https://github.com/Microsoft/ChakraCore)
