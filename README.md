@@ -1,15 +1,17 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Introduccion
+AppWeb para la gestion de ventas de productos. Gestion de usuarios, clientes y productos, con servicio de aviso de ventas pendientes por envio de mails 
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+# Login de Usuarios
+Para el acceso a la App el login se puede hacer con tres tipos de usuarios, Ceo, Director y Comercial.
+USUARIO:
+- ceo@gestionapp.es  --> CEO
+- director@gestionapp.es  --> DIRECTOR
+- comercial@gestionapp.es  --> COMERCIAL
+PASSWORD:
+- Admin123
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+# Descripcion
+Esta App esta realizada con NodeJs, Angular y Mysql. 
 
 # Contribute
 TODO: Explain how other users and developers can contribute to make your code better. 
