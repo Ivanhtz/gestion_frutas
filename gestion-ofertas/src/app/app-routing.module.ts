@@ -28,7 +28,7 @@ const routes: Routes = [
   { path: '', pathMatch: 'full', redirectTo: 'login' },
   { path: 'login', component: LoginComponent },
   {
-    path: 'dashboard',
+    path: 'https://gestion-ofertas.netlify.app/dashboard',
     component: DashboardComponent,
     canActivate: [LoginGuard],
   },
