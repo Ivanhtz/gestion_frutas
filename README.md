@@ -1,6 +1,6 @@
 # Introduccion
 -[APP-Vending](https://gestion-ofertas.netlify.app/login)
-AppWeb para la gestion de ventas de productos. Gestion de usuarios, clientes y productos, con servicio de aviso de ventas pendientes por envio de mails 
+ para la gestion de ventas de productos. Gestion de usuarios, clientes y productos, con servicio de aviso de ventas pendientes por envio de mails 
 
 # Login de Usuarios
 Para el acceso a la App el login se puede hacer con tres tipos de usuarios, Ceo, Director y Comercial.
