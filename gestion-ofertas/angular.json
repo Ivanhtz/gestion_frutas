@@ -24,7 +24,7 @@
             "tsConfig": "tsconfig.app.json",
             "inlineStyleLanguage": "scss",
               "src/favicon.ico",
-            "assets": ["src/favicon.ico", "src/assets"],
+            "assets": ["src/favicon.ico", "src/assets", { "glob": "_redirects", "input": "src", "output": "/" }],
             "styles": ["src/styles.scss"],
             "stylePreprocessorOptions": {
               "includePaths": ["./src/assets/partials"]
