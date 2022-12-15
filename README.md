@@ -1,4 +1,4 @@
-# Introduccion
+# Introducción
 -[APP-Vending](https://gestion-ofertas.netlify.app/login)
  para la gestion de ventas de productos. Gestion de usuarios, clientes y productos, con servicio de aviso de ventas pendientes por envio de mails 
 
@@ -11,7 +11,7 @@ USUARIO:
 PASSWORD:
 - Admin123
 
-# Descripcion
+# Descripción
 Esta App esta realizada con NodeJs, Angular y Mysql. 
 
 # Contribute
