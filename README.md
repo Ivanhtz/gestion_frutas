@@ -12,7 +12,7 @@ PASSWORD:
 - Admin123
 
 # Descripción
-Esta App esta realizada con NodeJs, Angular y Mysql. 
+Esta App está realizada con NodeJs, Angular y Mysql. 
 
 # Contribute
 TODO: Explain how other users and developers can contribute to make your code better. 
